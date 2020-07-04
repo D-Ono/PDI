@@ -1,0 +1,2 @@
+Faça um programa que tenha a seguinte função:
+ - Equalização do Histograma
