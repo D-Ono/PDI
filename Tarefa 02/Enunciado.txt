@@ -1,0 +1,1 @@
+Faça uma Generalização que consiga ler o cabeçalho padrão das imagens PPM. Logo em seguida escureça e clareie a imagem de entrada.
