@@ -1,0 +1,1 @@
+Faça uma Generalização que consiga ler o cabeçalho padrão das imagens PGM. Logo em seguida, crie a imagem Negativa, escureça, clareie e faça a negativa da imagem de entrada. 
